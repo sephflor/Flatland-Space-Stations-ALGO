@@ -1,1 +1,1 @@
-# Flatland-Space-Stations-ALGO
+# Flatland-Space-Stations-ALGO.This program calculates the maximum distance any city in Flatland is from the nearest space station. It first sorts the space station locations, then checks the distances at the edges (first and last cities) and the midpoints between consecutive stations, returning the largest of these distances.
